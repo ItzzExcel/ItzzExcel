@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there. 👋
 
 <hr>
 Welcome to my GitHub corner. I specialize in front-end and UI/UX design. Here's a quick overview about me:
