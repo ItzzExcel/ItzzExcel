@@ -10,7 +10,7 @@ Welcome to my GitHub corner. I specialize in front-end and UI/UX design. Here's 
 
 ### GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzzExcel&show_icons=true&theme=synthwave#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzzExcel&show_icons=true&theme=tokyonight#gh-dark-mode-only)
 
 <hr>
 <a href="https://excel.lexploits.top">My portfolio</a>
